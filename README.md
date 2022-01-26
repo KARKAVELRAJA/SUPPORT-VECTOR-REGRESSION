@@ -6,7 +6,7 @@
 - The basic idea behind Support Vector Regression is to find the best fit line. In SVR, the best fit line is the hyperplane that has the maximum number of points
 - In this project, at first the dataset is loaded and pre-processing steps are carried out
 - Then, by using SUPPORT VECTOR REGRESSION MODEL from scikit-learn python library, the pre-processed data are trained and tested
-- Finally, the accuracy of the model is predicted
+- Finally, the accuracy of the trained model is predicted
 
 -----
 
