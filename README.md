@@ -1,6 +1,6 @@
 # SUPPORT-VECTOR-REGRESSION
 
-### IMPLEMENTION OF SUPPORT VECTOR REGRESSION USING SCIKIT-LEARN PYTHON LIBRARY TO PREDICT SALARY
+### IMPLEMENTION OF SUPPORT VECTOR REGRESSION USING SCIKIT-LEARN PYTHON LIBRARY TO PREDICT HEIGHT
 
 - Support Vector Regression is a supervised learning algorithm
 - The basic idea behind Support Vector Regression is to find the best fit line. In SVR, the best fit line is the hyperplane that has the maximum number of points
@@ -12,7 +12,7 @@
 
 ### FILES
 
-- Position_Salaries.csv - dataset
+- Age.csv - dataset
 
 -----
 
